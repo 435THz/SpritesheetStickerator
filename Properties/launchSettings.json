@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SpritesheetStickerator": {
+      "commandName": "Project",
+      "commandLineArgs": "lil"
+    }
+  }
+}
