@@ -6,6 +6,7 @@ How to use:
 2. Put the spritesheet in the "input" folder beside the .exe file. If such a folder does not exist, run the program once to create it.
 3. Run the program and wait for it to finish.
 4. Retrieve your sticker-ready portraits from the "output" folder.
-An image will be processed only if the corresponding folder inside "output" does not exist yet.
+
+A spritesheet will be processed only if the corresponding folder inside "output" does not exist yet.
 
 **IMPORTANT**: Remember to unpack the zip file or the program will not work properly.
